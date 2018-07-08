@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/kanne/Downloads/commons-csv-1.5-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/kanne/Downloads/evallib-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanne/Downloads/jsqlparser-1.0.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
